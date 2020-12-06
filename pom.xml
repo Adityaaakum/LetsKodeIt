@@ -170,7 +170,7 @@
   </dependencies>
     <profiles>
   <profile>
-  <id>Regression_firefox</id>
+  <id>Regressionfirefox</id>
   <build>
   <plugins>
    
