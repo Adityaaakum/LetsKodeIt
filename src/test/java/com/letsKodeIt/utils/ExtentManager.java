@@ -38,6 +38,7 @@ public class ExtentManager {
                                   
                                   reporter.config().setDocumentTitle("Selenium framework reports");
                                   reporter.config().setReportName("LetsKodeIt");
+                                  reporter.config().setAutoCreateRelativePathMedia(true);
                                   extent= new ExtentReports();
                                   
                                   extent.setSystemInfo("WebDriver", "Selenium");
