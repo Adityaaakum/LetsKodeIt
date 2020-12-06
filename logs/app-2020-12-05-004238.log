@@ -1,0 +1,5 @@
+00:42:38.044 INFO  utils.LoggingExample -Logging info
+00:42:38.054 DEBUG utils.LoggingExample -debug info
+00:42:38.055 ERROR utils.LoggingExample -error info
+00:42:38.055 TRACE utils.LoggingExample -trace message
+00:42:38.055 WARN  utils.LoggingExample -warn message

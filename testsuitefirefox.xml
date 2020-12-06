@@ -1,0 +1,34 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression testing">
+<listeners>
+
+<listener class-name="com.letsKodeIt.testclasses.TestListnerss"/>
+
+</listeners>
+<test name="Smoke Test" preserve-order="true">
+<parameter name="browser" value="firefox"></parameter>
+<classes>
+
+<!--  <class name="com.letsKodeIt.testclasses.LoginTest2"></class>-->
+ <class name="com.letsKodeIt.testclasses.LoginTestFullFunctionality"></class>
+
+</classes>
+
+
+
+
+
+
+</test>
+
+
+
+
+
+
+
+
+
+
+
+</suite>

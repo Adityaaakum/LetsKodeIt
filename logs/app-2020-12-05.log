@@ -1,0 +1,6 @@
+01:02:09.715 INFO  testclasses.FactoryClassDriver -Firefox driver set
+01:02:09.719 INFO  testclasses.FactoryClassDriver -System.setProperty
+01:02:41.884 INFO  testclasses.CheckPoint -test1 :passed
+01:02:41.884 INFO  testclasses.CheckPoint -checking gravatar
+01:02:41.914 INFO  testclasses.CheckPoint -test1 :passed
+01:02:41.915 INFO  testclasses.CheckPoint -checking all courses page

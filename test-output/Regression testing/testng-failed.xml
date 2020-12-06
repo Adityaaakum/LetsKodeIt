@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression testing]">
+  <test thread-count="5" name="Smoke Test(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.letsKodeIt.testclasses.LoginTest2">
+        <methods>
+          <include name="afterClasses"/>
+          <include name="test1" invocation-numbers="1"/>
+          <include name="commonbeforeClass"/>
+        </methods>
+      </class> <!-- com.letsKodeIt.testclasses.LoginTest2 -->
+    </classes>
+  </test> <!-- Smoke Test(failed) -->
+</suite> <!-- Failed suite [Regression testing] -->

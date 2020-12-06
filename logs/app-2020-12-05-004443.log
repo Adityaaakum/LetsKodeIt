@@ -1,0 +1,3 @@
+00:44:43.548 INFO  LoggingExample -Logging info
+00:44:43.557 ERROR LoggingExample -error info
+00:44:43.558 WARN  LoggingExample -warn message

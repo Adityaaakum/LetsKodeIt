@@ -1,0 +1,11 @@
+02:03:13.832 INFO  testclasses.TestListnerss -onStart -> Test Tag Name: Smoke Test
+02:03:13.853 INFO  testclasses.TestListnerss -These methods will be executed in this <test> tag
+02:03:13.854 INFO  testclasses.TestListnerss -test1
+02:03:13.854 INFO  testclasses.TestListnerss -test2
+02:03:13.854 INFO  testclasses.TestListnerss -test3
+02:03:13.921 INFO  testclasses.FactoryClassDriver -Firefox driver set
+02:03:13.921 INFO  testclasses.FactoryClassDriver -System.setProperty
+02:03:54.103 INFO  testclasses.TestListnerss -onTestSuccess -> Test Method Name: test1
+02:04:00.187 INFO  testclasses.TestListnerss -onTestSuccess -> Test Method Name: test2
+02:04:06.575 INFO  testclasses.TestListnerss -onTestSuccess -> Test Method Name: test3
+02:04:11.790 INFO  testclasses.TestListnerss -onFinish -> Test Tag Name: Smoke Test
